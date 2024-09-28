@@ -1,10 +1,10 @@
 # Jenis Penelitian
 
-## Penelitian terapan:
+## METHODOLOGY - METHODS:
 
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|  01  |<a href="https://iopscience.iop.org/article/10.1088/1755-1315/1059/1/012016/pdf">Estimation of Size, Volume and Weight of Oranges Using Digital Images Processing</a>                      | [paper](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
+|  01  |<a href="https://drive.google.com/file/d/1OKV4umbeMUlSkQ47C7uWU8UfCMWVkaTx/view?usp=sharing">iTCLab Temperature Monitoring and Control System Based on PID and Internet of Things (IoT)</a>                      | [METHODOLOGY](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
 |  02  |<a href="https://link.springer.com/article/10.1007/s11045-021-00800-0">Identifying the presence of bacteria on digital images by using asymmetric distribution with k-means clustering algorithm</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
 
 <br></br>
