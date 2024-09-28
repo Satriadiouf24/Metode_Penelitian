@@ -13,9 +13,9 @@
 ## METHODS
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|  01  |<a href="https://drive.google.com/file/d/1OKV4umbeMUlSkQ47C7uWU8UfCMWVkaTx/view?usp=sharing">iTCLab Temperature Monitoring and Control System Based on PID and Internet of Things (IoT)</a>                      | [METHODOLOGY](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
-|  02  |<a href="https://drive.google.com/file/d/1Y_4sr2JoDHHQouG3jWfuks6Qrp_P-SOR/view?usp=sharing">Handwriting Recognition using Artificial Intelligence
-Neural Network and Image Processing</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+|  01  |<a href="https://drive.google.com/file/d/1zroabMlcx8DazMusD-dBhNWvB6RqTgtm/view?usp=sharing">Efficient Vehicle Registration Recognition System: Enhancing 
+Accuracy and Power Efficiency through Digital Image Processing</a>                      | [METHOD](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
+|  02  |<a href="https://drive.google.com/file/d/1DfUaZbnk54kWWCma_PzdB8Q7TNor3Rgi/view?usp=sharing">Digital Image Processing for Height Measurement Application Based on Python OpenCV and Regression Analysis</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
 
 <br></br>
 
