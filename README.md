@@ -1,11 +1,21 @@
 # Jenis Penelitian
+# METHODOLOGY - METHODS:
 
-## METHODOLOGY - METHODS:
-
+## METHODOLOGY
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |  01  |<a href="https://drive.google.com/file/d/1OKV4umbeMUlSkQ47C7uWU8UfCMWVkaTx/view?usp=sharing">iTCLab Temperature Monitoring and Control System Based on PID and Internet of Things (IoT)</a>                      | [METHODOLOGY](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
-|  02  |<a href="https://link.springer.com/article/10.1007/s11045-021-00800-0">Identifying the presence of bacteria on digital images by using asymmetric distribution with k-means clustering algorithm</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+|  02  |<a href="https://drive.google.com/file/d/1Y_4sr2JoDHHQouG3jWfuks6Qrp_P-SOR/view?usp=sharing">Handwriting Recognition using Artificial Intelligence
+Neural Network and Image Processing</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+
+<br></br>
+
+## METHODOLOGY
+| Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
+| -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|  01  |<a href="https://drive.google.com/file/d/1OKV4umbeMUlSkQ47C7uWU8UfCMWVkaTx/view?usp=sharing">iTCLab Temperature Monitoring and Control System Based on PID and Internet of Things (IoT)</a>                      | [METHODOLOGY](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
+|  02  |<a href="https://drive.google.com/file/d/1Y_4sr2JoDHHQouG3jWfuks6Qrp_P-SOR/view?usp=sharing">Handwriting Recognition using Artificial Intelligence
+Neural Network and Image Processing</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
 
 <br></br>
 
