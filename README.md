@@ -1,6 +1,6 @@
-#Metode Penelitian
+# Metode Penelitian
 
-##Deciding the Methodology
+## Deciding the Methodology
 
 ## METHODOLOGY V METHODS:
 
