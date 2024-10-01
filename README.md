@@ -1,7 +1,9 @@
-# Jenis Penelitian
-# METHODOLOGY V METHODS:
+#Metode Penelitian
+##Deciding the Methodology
 
-## METHODOLOGY
+## METHODOLOGY V METHODS:
+
+### METHODOLOGY
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |  01  |<a href="https://drive.google.com/file/d/1OKV4umbeMUlSkQ47C7uWU8UfCMWVkaTx/view?usp=sharing">iTCLab Temperature Monitoring and Control System Based on PID and Internet of Things (IoT)</a>                      | [METHODOLOGY](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
@@ -10,7 +12,7 @@
 
 <br></br>
 
-## METHODS
+### METHODS
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |  01  |<a href="https://drive.google.com/file/d/1zroabMlcx8DazMusD-dBhNWvB6RqTgtm/view?usp=sharing">Efficient Vehicle Registration Recognition System: Enhancing  Accuracy and Power Efficiency through Digital Image Processing</a>                      | [METHOD](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
