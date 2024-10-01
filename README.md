@@ -18,6 +18,8 @@
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |  01  |<a href="https://drive.google.com/file/d/1zroabMlcx8DazMusD-dBhNWvB6RqTgtm/view?usp=sharing">Efficient Vehicle Registration Recognition System: Enhancing  Accuracy and Power Efficiency through Digital Image Processing</a>                      | [METHOD](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
 |  02  |<a href="https://drive.google.com/file/d/1DfUaZbnk54kWWCma_PzdB8Q7TNor3Rgi/view?usp=sharing">Digital Image Processing for Height Measurement Application Based on Python OpenCV and Regression Analysis</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+|  03  |<a href="https://drive.google.com/file/d/1nDWgdpjqkiuhyzSdn8mpZjqdHSJO_Tol/view?usp=sharing">Introduction of spatial analysis approaches for Emergency Medical Services data: Using the Kaggle dataset as an example</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+|  02  |<a href="https://drive.google.com/file/d/1iJHK4WcADHQeejQcgBdWwkSaV8OT2uIP/view?usp=sharing">Sugarcane nitrogen nutrition estimation with digital images and machine learning methods</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
 
 <br></br>
 
